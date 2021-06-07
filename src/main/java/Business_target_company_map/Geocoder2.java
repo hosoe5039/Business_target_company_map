@@ -22,7 +22,7 @@ import com.google.maps.model.LatLng;
 
 @WebServlet("/map222")
 
-public class Geocoder extends HttpServlet{
+public class Geocoder2 extends HttpServlet{
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException{

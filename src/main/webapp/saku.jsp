@@ -5,6 +5,9 @@
 <title>Hello</title>
 </head>
 <body>
-<h1>Hello Gradle WebApp</h1>
+<script>
+var str = 'あいーー';
+</script>
+<h1><script>innerHTMLtxt.innerHTML=str</script></h1>
 </body>
 </html>
